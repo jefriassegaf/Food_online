@@ -3,27 +3,8 @@
 
 Achmad Jefri Assegaf- 1605552036
 
-## Daftar Isi
 
--   [Food_online](#oFood_online)
-    -   [Daftar Isi](#daftar-isi)
-    -   [Pengenalan](#pengenalan)
-    -   [UML Class Diagram](#uml-class-diagram)
-    -   [Batasan Program](#batasan-program)
-    -   [Alat](#alat)
-        -   [Visual Studio Code](#visual-studio-code)
-        -   [Extension Pack for Java](#extension-pack-for-java)
-    -   [Prasyarat](#prasyarat)
-    -   [Penggunaan](#penggunaan)
-        -   [Download File](#download-file)
-        -   [Command](#command)
-        -   [Alur Program](#alur-program)
-            -   [Login](#login)
-            -   [Admin](#admin)
-            -   [Customer](#customer)
-    -   [Penutup](#penutup)
-
-## Pengenalan
+## Abstrak
 
 Program pembelian makanan _online_ berbasis CLI atau _Command Line Interface_. Program ini dibangun dengan bahasa pemrograman Java. Java adalah salah satu bahasa pemrograman populer yang digunakan untuk mengembangkan aplikasi _mobile_, _desktop_, hingga website. Kepopulerannya dibuktikan dari jumlah pengembang yang menggunakan bahasa ini, yaitu sekitar 10 juta pengembang dari seluruh dunia.
 
@@ -33,16 +14,6 @@ UML _Class Diagram_ adalah jenis diagram yang digunakan dalam pengembangan progr
 
 ![UML Food_online](img/UML%20Online%20Food%20Shop.jpg "UML Food_online")
 
-## Batasan Program
-
-Terdapat beberapa batasan dari program ini, antara lain:
-
--   Program ini berbasis CLI
--   Program ini tidak benar-benar _online_
--   Program ini hanya tersedia dalam Bahasa Indonesia
--   Program ini tidak memiliki menu registrasi untuk pengguna
--   Program ini hanya memiliki dua tipe user, yaitu administrator dan _customer_
--   Kredensial ditulis _hardcoded_ pada kode program
 
 ## Alat
 
