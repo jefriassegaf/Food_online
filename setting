@@ -4,7 +4,7 @@ Achmad Jefri Assegaf- 1605552036
 
 ## Daftar Isi
 
--   [Online Foodshop](#online-foodshop)
+-   [Food_online](#food_online)
     -   [Daftar Isi](#daftar-isi)
     -   [Pengenalan](#pengenalan)
     -   [UML Class Diagram](#uml-class-diagram)
@@ -73,7 +73,7 @@ Untuk menjalankan program ini Anda dapat melakukan langkah-langkah berikut:
 
 #### Download File
 
-Silahkan _download_ file _executable_ EXE atau JAR dari program Online Food Shop lewat tautan berikut:
+Silahkan _download_ file _executable_ EXE atau JAR dari program Food Online lewat tautan berikut:
 
 [Download EXE File](https://github.com/jefri/Food_online/raw/main/Food_online.exe)
 [Download JAR File](https://github.com/Jefri/Food_online/raw/main/food_online.jar)
@@ -82,11 +82,11 @@ Silahkan _download_ file _executable_ EXE atau JAR dari program Online Food Shop
 
 Untuk menjalankan file JAR tersebut dengan _command_ berikut:
 
-`$ java -jar Online-Food-Shop.jar`
+`$ java -jar Food_online.jar`
 
 #### Alur Program
 
-Berikut adalah alur dari jalannya program Online Foodshop.
+Berikut adalah alur dari jalannya program Food Online.
 
 ![Introduction](/img/Introduction.png "Introduction")
 
